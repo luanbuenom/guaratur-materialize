@@ -21,19 +21,19 @@
 
 # Passo 3: Avaliação Inicial dos Paineis
 
-- [ ] Acesse o site Guaratur e navegue até as páginas que contêm os painéis "Entre em Contato," "Formulário de Contato" e "Localização." Faça uma avaliação inicial da aparência e do layout dos painéis nos dispositivos móveis (smartphones e tablets), notebooks e computadores de mesa, utilizando as ferramentas de desenvolvedor do navegador Google Chrome. Observe quaisquer problemas de layout ou necessidades de reorganização. No Google Chrome, clique com o botão direito do mouse em qualquer parte da página e selecione "Inspecionar" ou pressione as teclas "Ctrl+Shift+I" (Windows/Linux) ou "Cmd+Option+I" (Mac) para abrir as ferramentas de desenvolvedor. Você também pode pressionar a tecla F12 para abrir as ferramentas de desenvolvedor diretamente. No painel de ferramentas de desenvolvedor, você verá um ícone de dispositivo no canto superior esquerdo (ícone de telefone e tablet). Clique nele para ativar a visualização responsiva. 
+- [x] Acesse o site Guaratur e navegue até as páginas que contêm os painéis "Entre em Contato," "Formulário de Contato" e "Localização." Faça uma avaliação inicial da aparência e do layout dos painéis nos dispositivos móveis (smartphones e tablets), notebooks e computadores de mesa, utilizando as ferramentas de desenvolvedor do navegador Google Chrome. Observe quaisquer problemas de layout ou necessidades de reorganização. No Google Chrome, clique com o botão direito do mouse em qualquer parte da página e selecione "Inspecionar" ou pressione as teclas "Ctrl+Shift+I" (Windows/Linux) ou "Cmd+Option+I" (Mac) para abrir as ferramentas de desenvolvedor. Você também pode pressionar a tecla F12 para abrir as ferramentas de desenvolvedor diretamente. No painel de ferramentas de desenvolvedor, você verá um ícone de dispositivo no canto superior esquerdo (ícone de telefone e tablet). Clique nele para ativar a visualização responsiva. 
 
 # Passo 4: Edição dos Paineis e Cores do Materialize CSS
 
-- [ ] Utilizando as classes e recursos do framework Materialize CSS, edite os painéis existentes e aplique as cores do Materialize CSS que achar necessárias. Assegure os seguintes requisitos de responsividade:
+- [x] Utilizando as classes e recursos do framework Materialize CSS, edite os painéis existentes e aplique as cores do Materialize CSS que achar necessárias. Assegure os seguintes requisitos de responsividade:
 
 Em telas de celular e tablet:
 
-- [ ] Os painéis "Entre em Contato" e "Formulário de Contato" devem ser organizados um abaixo do outro, ocupando a largura total da tela, sem offset. O painel "Localização" deve ser escondido. 
+- [x] Os painéis "Entre em Contato" e "Formulário de Contato" devem ser organizados um abaixo do outro, ocupando a largura total da tela, sem offset. O painel "Localização" deve ser escondido. 
 
 Em notebooks e computadores de mesa:
 
-- [ ] Os painéis "Entre em Contato" e "Formulário de Contato" devem ser organizados um abaixo do outro, ocupando a largura total da tela, com um offset de 3 colunas. O painel "Localização" deve ocupar a largura total da tela. 
+- [x] Os painéis "Entre em Contato" e "Formulário de Contato" devem ser organizados um abaixo do outro, ocupando a largura total da tela, com um offset de 3 colunas. O painel "Localização" deve ocupar a largura total da tela. 
 
 # Passo 5: Uso de Cards para Representar Acomodações
 
@@ -43,7 +43,7 @@ Em notebooks e computadores de mesa:
 
 # Passo 6: Teste de Responsividade e Cores
 
-- [ ] Teste a página de "Acomodações em Guarapuava" e os painéis editados em diferentes dispositivos (celulares, tablets, notebooks e computadores de mesa) para garantir que eles tenham uma aparência e funcionalidade adequadas em cada tamanho de tela, com as cores do Materialize CSS aplicadas. Para testar a responsividade, utilize a ferramenta "Mobile simulator - responsive testing tool" (https://chrome.google.com/webstore/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk) ou a extensão "Responsive Viewer" (https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb) no navegador Google Chrome. 
+- [x] Teste a página de "Acomodações em Guarapuava" e os painéis editados em diferentes dispositivos (celulares, tablets, notebooks e computadores de mesa) para garantir que eles tenham uma aparência e funcionalidade adequadas em cada tamanho de tela, com as cores do Materialize CSS aplicadas. Para testar a responsividade, utilize a ferramenta "Mobile simulator - responsive testing tool" (https://chrome.google.com/webstore/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk) ou a extensão "Responsive Viewer" (https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb) no navegador Google Chrome. 
 
 # Passo opcional: Ajuste a Responsividade do Texto nos Títulos dos Cards
 
@@ -55,4 +55,4 @@ Aqui está um exemplo de como você deve aplicar a função clamp nos títulos d
 
 # Entrega:
 
-- [ ] Envie capturas de tela da página de "Acomodações em Guarapuava" nos diferentes dispositivos para demonstrar a melhoria na responsividade, a aplicação das cores do Materialize CSS e o uso de cards para representar as acomodações.
+- [x] Envie capturas de tela da página de "Acomodações em Guarapuava" nos diferentes dispositivos para demonstrar a melhoria na responsividade, a aplicação das cores do Materialize CSS e o uso de cards para representar as acomodações.
