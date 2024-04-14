@@ -11,3 +11,11 @@ body {
 main {
     flex: 1 0 auto;
 }
+
+.link-card-panel {
+    color: inherit;
+}
+.card-image img{
+    height: 300px;
+    object-fit: cover;
+}
