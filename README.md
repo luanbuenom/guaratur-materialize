@@ -2,7 +2,7 @@
 
 # Passo 1: Criação da Página "Acomodações em Guarapuava"
 
-- [ ] Crie uma nova página em seu site chamada "Acomodações em Guarapuava." Certifique-se de que a página esteja acessível no menu de navegação superior (navbar) e na barra lateral (sidenav) do site. 
+- [x] Crie uma nova página em seu site chamada "Acomodações em Guarapuava." Certifique-se de que a página esteja acessível no menu de navegação superior (navbar) e na barra lateral (sidenav) do site. 
 
 # Passo 2: Baixar Dependências com NPM e Configurar o package.json
 
@@ -37,9 +37,9 @@ Em notebooks e computadores de mesa:
 
 # Passo 5: Uso de Cards para Representar Acomodações
 
-- [ ] Na nova página "Acomodações em Guarapuava," apresente uma lista de diferentes acomodações disponíveis na cidade, incluindo pelo menos 6 opções que podem ser hotéis e pousadas. Use cards para representar cada acomodação. Cada card deve conter:
+- [x] Na nova página "Acomodações em Guarapuava," apresente uma lista de diferentes acomodações disponíveis na cidade, incluindo pelo menos 6 opções que podem ser hotéis e pousadas. Use cards para representar cada acomodação. Cada card deve conter:
 
-- [ ] Uma foto representativa da acomodação: Para fazer isso, crie uma conta no Cloudinary (https://cloudinary.com/) e utilize sua interface gráfica para fazer o upload das imagens das acomodações. Após o upload, o Cloudinary gera URLs para as imagens, que você pode referenciar no código HTML da página. O nome do hotel ou pousada. Uma breve descrição da acomodação. Os preços médios por noite. Uma classificação de estrelas (de 1 a 5) ou uma nota de avaliação (de 0 a 10) para cada acomodação. 
+- [x] Uma foto representativa da acomodação: Para fazer isso, crie uma conta no Cloudinary (https://cloudinary.com/) e utilize sua interface gráfica para fazer o upload das imagens das acomodações. Após o upload, o Cloudinary gera URLs para as imagens, que você pode referenciar no código HTML da página. O nome do hotel ou pousada. Uma breve descrição da acomodação. Os preços médios por noite. Uma classificação de estrelas (de 1 a 5) ou uma nota de avaliação (de 0 a 10) para cada acomodação. 
 
 # Passo 6: Teste de Responsividade e Cores
 
